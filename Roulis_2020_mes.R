@@ -8,6 +8,7 @@ library(Seurat)
 
 source("https://raw.githubusercontent.com/KlugerLab/ALRA/master/alra.R")
 source("https://raw.githubusercontent.com/KlugerLab/ALRA/master/alraSeurat2.R")
+source("./combineData.R")
 
 
 ## Prepare data
